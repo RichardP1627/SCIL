@@ -1,4 +1,4 @@
-# SCIL
+# SCIL Data Visualization Animation
 
 | **Video** | **About** |
 | :--- | :--- |
