@@ -7,7 +7,7 @@ Wallace, J. M., Battisti, D.S., Thompson, D. W. J., and Hartmann, D. L., 2023: T
     <td colspan="2"><b><i>About:</i></b></u><br>Reanalysis ERA5 Monthly 2m temperature from 1940-1950 (Mercator Projection)</td>
   </tr>
   <tr>
-    <td><video width="300" height="50" src=""></video></td>
+    <td><video width="300" height="50" src="https://github.com/user-attachments/assets/fd6a3c48-c90b-412d-b2f6-a2b2ef6328ab"></video></td>
     <td colspan="2"><b><i>About:</i></b></u><br>Reanalysis ERA5 Monthly 2m temperature from 1940-1950 (Robinson Projection)</td>
   </tr>
   <tr>
